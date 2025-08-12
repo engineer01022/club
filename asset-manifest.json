@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/clup/static/css/main.49f59576.css",
+    "main.js": "/clup/static/js/main.1b69d756.js",
+    "static/media/background.svg": "/clup/static/media/background.769543172f64a200b9ec.svg",
+    "index.html": "/clup/index.html",
+    "main.49f59576.css.map": "/clup/static/css/main.49f59576.css.map",
+    "main.1b69d756.js.map": "/clup/static/js/main.1b69d756.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49f59576.css",
+    "static/js/main.1b69d756.js"
+  ]
+}
